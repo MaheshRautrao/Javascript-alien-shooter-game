@@ -4,7 +4,7 @@ This is a  javascript game developed by me to improve my javascript skills.
 
  ## Demo
 
-https://maheshrautrao.github.io/Javascript-simple-game/
+https://maheshrautrao.github.io/Javascript-alien-shooter-game/
  
  ## Tech Stack
 
