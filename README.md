@@ -12,7 +12,8 @@ https://maheshrautrao.github.io/Javascript-simple-game/
 
  ## Learnings
 
- --> Javascript setInterval() <br
+  --> Javascript setInterval() <br>
+  --> Javascript clearInterval() <br>
   --> Javascript functions <br>
   --> dom manipulation <br>
   --> event listeners <br>
@@ -24,9 +25,8 @@ https://maheshrautrao.github.io/Javascript-simple-game/
 
   ## Screen-shots
 
-![Screenshot 2023-07-26 152124](https://github.com/MaheshRautrao/Javascript-simple-game/assets/101188065/8caf0605-28bb-4085-b3fd-f999000085f5)
+![Screenshot 2023-07-27 165053](https://github.com/MaheshRautrao/Javascript-alien-shooter-game/assets/101188065/c95452e1-a955-40b7-b827-32fc833a44a2)
+![Screenshot 2023-07-27 165102](https://github.com/MaheshRautrao/Javascript-alien-shooter-game/assets/101188065/d803a87f-bca5-44e4-a8b7-f8c082725f7c)
 
- ![Screenshot 2023-07-26 152159](https://github.com/MaheshRautrao/Javascript-simple-game/assets/101188065/c3f0aaf3-b971-4f28-b1f9-9f3e5e5865b8)
- 
-![Screenshot 2023-07-26 152210](https://github.com/MaheshRautrao/Javascript-simple-game/assets/101188065/a3b71463-b83b-4932-a731-8647c0080176)
+
 
