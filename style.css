@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_container{
+    background: url("/space.jpg") ;
+    display: flex;
+   
+}
+.score_container{
+  flex: 1;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 2rem;
+}
+.score_container span{
+    color: white;
+    margin: 20px;
+}
+
+.score_container .score{
+    color:red
+}
+.game_main_container{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+  
+    justify-content: center;
+    align-items: center;
+}
+
+.game_container{
+   position: relative;
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+    background-color: black;
+}
+
+.alien{
+    width: 40px;
+    height: 20px;
+    background-image: url("/alien.png") ;
+    background-size: contain;
+    background-repeat: no-repeat;
+  
+    position: absolute;
+    top: 0px;
+}
+
+.jet{
+    width: 20px;
+    height: 40px;
+    background-image: url("/rocket.png") ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 0px;
+   
+}
+.bullet{
+    width: 8px;
+    height: 17px;
+    background-image: url("/bullet.png") ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 40px;
+   
+}
+.restart_container{
+    display:none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  color: white;
+  font-size: 2rem;
+ 
+}
+
+.restart_container span{
+    margin-bottom: 10px;
+}
+
+.restart_container button{
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
